@@ -21,7 +21,7 @@ This setup is going to be around 2 lines of code and a few lines of configuratio
 If you are using any of Forge's built-in Publishers that upload your artifacts to static storage, they each have a documentation section on how to configure your app to auto update using those uploaded artifacts. Check out each of the options:
 
 * [Amazon S3](../config/publishers/s3.md#auto-updating-from-s3)
-* Google Cloud Storage _(Coming Soon)_
+* [Google Cloud Storage](../config/publishers/gcs.md#auto-updating-from-gcs)
 
 ## Hosting your own update server
 
